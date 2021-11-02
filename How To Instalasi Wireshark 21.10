@@ -1,0 +1,12 @@
+wireshark is for scanning and capturing data traffic on the network, and is an open source data packet capture tool or application for performing network analysis
+and troubleshooting.
+
+==== Instalasi Wireshark ====
+
+  # sudo su
+  # sudo apt update
+  # sudo apt -y install wireshark
+
+=====================================================================================================================================================================
+
+THANK YOU VERY MUCH :)
